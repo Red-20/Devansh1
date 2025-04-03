@@ -1,0 +1,4 @@
+add the scripts and prefabs to the assets folder
+add both the things from prefabs to scene
+for camera controller add controller script in the inspector
+for third person add third person controller
